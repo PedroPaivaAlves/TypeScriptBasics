@@ -1,0 +1,5 @@
+install typescript:
+--> npm install -g typescript
+
+covert file to javascript
+tsc "file.ts"
